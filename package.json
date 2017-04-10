@@ -1,0 +1,13 @@
+{
+  "name": "JCSW_meteor",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.20.0",
+    "meteor-node-stubs": "~0.2.4",
+    "utf8": "^2.1.2",
+    "xml2js": "^0.4.17"
+  }
+}
